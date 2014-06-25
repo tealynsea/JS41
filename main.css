@@ -1,0 +1,26 @@
+div{
+	width: 500px;
+	height: 500px;
+	background-color: #ffff99;
+	/*display: flex;
+    flex-flow: row wrap;
+    align-content: space-around;*/
+}
+
+
+ 
+
+button {
+	 
+	margin-top: 50px;
+	margin-left: 50px;
+	padding: 5px;
+	width: 201px;
+	 
+
+	}
+
+li {
+
+	list-style-type: none;
+}
