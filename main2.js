@@ -43,13 +43,17 @@ $(document).on('ready', function() {
 		var answer = confirm("Do you want to navigate away from this page?");
 		if (answer === true) {
 			alert('You are now leaving Hipsters on the Rise.');
+
+
 		}  else {
 			
-			
+			$(this).remove();
 			return false;
-		}
-		
 
+			}
+
+		
+	
 	});
 
 
