@@ -2,7 +2,7 @@ $(document).on('ready', function() {
 
 //Change color of paragraphs//
 	$('#para1').mouseover(function(){
-		$('#para1').css('background-color', 'yellow');
+		$('#para1').css('background-color', 'pink');
 		console.log('highlighted');
 	});
 
@@ -12,7 +12,7 @@ $(document).on('ready', function() {
 	});
 
 	$('#para2').mouseover(function(){
-		$('#para2').css('background-color', 'yellow');
+		$('#para2').css('background-color', 'pink');
 		console.log('highlighted');
 	});
 
@@ -21,7 +21,7 @@ $(document).on('ready', function() {
 	});
 
 	$('#para3').mouseover(function(){
-		$('#para3').css('background-color', 'yellow');
+		$('#para3').css('background-color', 'pink');
 		console.log('highlighted');
 	});
 
